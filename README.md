@@ -1,4 +1,4 @@
 # ATS
 Automated Textual Summarization
 
-Testing
+This document contains how this project was setup, datasets used and steps followed
